@@ -6,4 +6,4 @@
 
 Kanyawee Srithankaew 660610741
 
-<strong>GITHUB PAGE URL :  https://onur-kb.github.io/lab02-OnUr-KB/ </strong>
+<strong>GITHUB PAGE URL :  https://onur-kb.github.io/lab02-OnUr-KB/  </strong>
